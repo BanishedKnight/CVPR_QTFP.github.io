@@ -2,8 +2,8 @@
 
 ### [CVPR 2026] 
 
-**Authors:** Changshuo Wang, Jiangming Wang, Ke-Yue Zhang, Taiping Yao, Shunli Wang, Shouhong Ding, Ran Yi, Lizhuang Ma  
-**Institution:** Shanghai Jiao Tong University (SJTU)
+**Authors:** Changshuo Wang^1,2,*^, Jiangming Wang^2,*^, Ke-Yue Zhang^2^, Taiping Yao^2^, Shunli Wang^2^, Shouhong Ding^2^, Ran Yi^1^, Lizhuang Ma^1^  
+**Institution:** ^1^Shanghai Jiao Tong University, ^2^Tencent Youtu Lab
 
 ---
 
